@@ -1,0 +1,5 @@
+1. ar gali elementas tureti keleta klasiu?
+2. kada elemente geriau nurodyti clas=, o kada id=?
+3. kuriais atvejais/kuriems elementams galima naudoti absoliučius dydžius? minėjot, kad font geriau nurodyti santykiniu dydžiu, kaip tai padaryti?
+
+1. Tiesiog, žiūrim ko reikia. Jei turi prie kažko taikytis ir keistis - vadinasi, santykiniai. Jeigu galima nustatyti kažką, kas bus visada toks ir tiks visada toks nepriklausomai nuo nieko - fiksuojam.
